@@ -1,0 +1,15 @@
+  "routes": [
+    { "src": "^/$",            "dest": "/index.html" },
+    { "src": "^/land$",        "dest": "/land.html" },
+    { "src": "^/build$",       "dest": "/build.html" },
+    { "src": "^/invest$",      "dest": "/invest.html" },
+
+    { "src": "^/success$",     "dest": "/success.html" },
+    { "src": "^/verify$",      "dest": "/verify.html" },
+    { "src": "^/unlock$",      "dest": "/unlock.html" },
+    { "src": "^/accreditation$", "dest": "/accreditation.html" },
+    { "src": "^/not-eligible$",  "dest": "/not-eligible.html" },
+
+    { "src": "^/investor-hub$", "dest": "/investor-hub.html" }
+  ]
+}
